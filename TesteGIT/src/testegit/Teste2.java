@@ -10,5 +10,5 @@ package testegit;
  * @author pc
  */
 public class Teste2 {
-    
+    public static int teste;
 }
